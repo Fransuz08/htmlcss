@@ -1,0 +1,94 @@
+body {
+    background: linear-gradient(180deg, #374151 0%, #111827 100%);
+}
+
+ul {
+    list-style-type: none;
+}
+
+.nav_link {
+    font-family: Roboto;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-decoration: none;
+}
+
+.nav_search {
+    background: #1F293799;
+}
+
+.span_myBlog {
+    font-family: Roboto;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-decoration: none;
+}
+
+.main_chapter {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    color: #FFFFFF99;
+}
+
+.main_header {
+    font-family: Roboto;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+}
+
+.name {
+    font-family: Roboto;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+}
+
+.profession {
+    font-family: Roboto;
+    color: #FFFFFF99;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+}
+
+.first_paragraph {
+    font-family: Roboto;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+}
+
+.other_paragraph {
+    font-family: Roboto;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+}
+
+.right {
+    font-family: Roboto;
+    color: #FFFFFF99;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+}
